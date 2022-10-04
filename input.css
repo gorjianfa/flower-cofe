@@ -94,13 +94,6 @@
       format("truetype");
 }
 
-
-
-
-
-
-
-
 .custom-background {
   background-image: url("../img/bg-4.png");
   background-repeat: no-repeat;
@@ -109,21 +102,26 @@
 }
 
 .reqtangel-background {
- background-image: url("../img/bg-Rectangle.svg");
+  background-image: url("../img/bg-Rectangle.svg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 852px;
 }
 
-
 .reqtangel-backgrounds {
- background-image: url("../img/bg-reqtangle-2.png");
+  background-image: url("../img/bg-reqtangle-2.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 747px;
 }
 
-
-
-
-
+.product__bg-header {
+  background: linear-gradient(
+    182.52deg,
+    #f8f8f8 2.11%,
+    rgba(255, 255, 255, 0) 111.07%
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ccc8c8;
+}
