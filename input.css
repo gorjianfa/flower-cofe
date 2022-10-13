@@ -116,12 +116,13 @@
 }
 
 .product__bg-header {
-  background: linear-gradient(
+ /* background: linear-gradient(
     182.52deg,
     #f8f8f8 2.11%,
     rgba(255, 255, 255, 0) 111.07%
-  );
+  );*/
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #ccc8c8;
+  background-color:#DBF9E2;
 }
+
