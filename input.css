@@ -126,3 +126,27 @@
   background-color:#DBF9E2;
 }
 
+.about-us__bg{
+  background-image: url("../img/about/top-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 533px;
+}
+
+
+
+.between__bg{
+  background-image: url("../img/about/between-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 654px;
+  width:100%;
+}
+
+.dash__bg{
+  background-image: url("../img/about/dash-line.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px;
+  width:100%;
+}
